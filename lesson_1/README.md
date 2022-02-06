@@ -25,3 +25,9 @@
 - Umím vytvořit proměnnou (přiřadit do ni požadovanou hodnotu)
 - Umím správně pojmenovat proměnné (snake_case, camelCase)
 - [Funkce a moduly TBD - uvidíme kam dojdeme]
+
+---
+
+## Meme for this week
+
+![Variables names](https://thecodinglove.com/content/028/searching_meaningful_variable_name2.png)
