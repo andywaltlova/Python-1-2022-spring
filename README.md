@@ -1,6 +1,6 @@
 <a href="https://www.czechitas.cz/"><img align="right" src="https://cdn.myshoptet.com/usr/www.shop-czechitas.cz/user/logos/logo.png" alt="Czechitas logo" width="180"/></a> 
 
-# Python 1 - jaro 2022
+# 🐍 Python 1 - jaro 2022
 
 01. **08-02-2022** - Orientace ve VSC, Kde se Python používá + úvod (čísla, řetězce, proměnné) [lesson summary](lesson_1)
 02. **15-02-2022** - Import modulů, vstup, vystup - print, input
