@@ -5,7 +5,6 @@
 3. Orientace v terminálu a Python konzoli
 4. Různé typy hodnot
 5. Proměnné a jejich správné pojmenování
-6. [Funkce a moduly]
 
 ---
 
@@ -13,7 +12,6 @@
 
 - https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/cisla-retezce
 - https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/promenne
-- [https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/funkce-moduly]
 
 ## Knowledge check
 
@@ -24,7 +22,7 @@
 - Umím s čísly a řetězci dělat základní operace (+,-,*,/,//,%)
 - Umím vytvořit proměnnou (přiřadit do ni požadovanou hodnotu)
 - Umím správně pojmenovat proměnné (snake_case, camelCase)
-- [Funkce a moduly TBD - uvidíme kam dojdeme]
+- Umím dělat výpočty jak přímo s hodnotami, tak s proměnými ve kterých jsou hodnoty uložené
 
 ---
 
