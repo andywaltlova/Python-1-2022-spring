@@ -19,6 +19,6 @@
 
 Po každé úterní lekci (typicky ve středu večer) bude zveřejněn domácí úkol opakující probranou látku. **Celkem bude 10 úkolů (mimo první a poslední lekci). Ke splnění kurzu je potřeba odevzdat alespoň 6 úkolů - vždy do následujícího týdne.** Tedy pokud se úkol zveřejní 16.2. (st), deadline pro odevzdání je 23.3. 23:59. Máte tedy i následující lekci k doladění detailů před finálním odevzdáním. Samozřejmě jsme tu pro vás celý týden na Slacku. V případě 4. lekce bude na úkol 14 dní (jarní prázdniny).
 
-Pokud nastane nepředvídatená událost (nemoc apod.) je možno úkol odevzdat po domluvě později. Úkoly se budou odevzdávat přes Czechitas komunitu - instrukce ve sdílené složce.
+Pokud nastane nepředvídatená událost (nemoc apod.) je možno úkol odevzdat po domluvě později, je ale třeba domluvit se individuálně. Úkoly se budou odevzdávat přes Czechitas komunitu - instrukce ve sdílené složce.
 
 Doporučuji samozřejmě dělat úkoly průběžně, protože probraná látka na sebe navazuje a následující lekce vždy předpokládají znalost látky probrané na lekcích předchozích.
