@@ -2,11 +2,11 @@
 
 **Deadline: 23.2. 23:59**
 
-[Odkaz na navod k odevzdani](https://docs.google.com/presentation/d/1iVXiZC8hUy9Irxxqebdaaz7-uTkuJT16/edit?usp=sharing&ouid=104337294426056946104&rtpof=true&sd=true)
+[Odkaz na návod k odevzdání](https://docs.google.com/presentation/d/1iVXiZC8hUy9Irxxqebdaaz7-uTkuJT16/edit?usp=sharing&ouid=104337294426056946104&rtpof=true&sd=true)
 
 
 ## 1. možnost (více volnosti pro vlastní fantazii a to co vás zajímá)
-Tato varianta úkolu pouze specifikuje co skript má dělat, způsob jakým toho dosáhnete je na vás.
+Tato varianta úkolu pouze specifikuje co skript má obsahovat, způsob jakým toho dosáhnete je na vás.
 
 - Načíst hodnotu (nebo více hodnot) od uživatele (funkce `input()` nebo parametry příkazové řádky)
 - Naimportovat si modul (Pouze [standartní knihovna](https://docs.python.org/3/library/))
@@ -15,6 +15,7 @@ Tato varianta úkolu pouze specifikuje co skript má dělat, způsob jakým toho
 - Použít alespoň jednu funkci z naimportovaného modulu
 - Vypsat výsledek funkce na výstup (po spuštění skripu tedy uvidím nějakou zprávu v terminálu)
   - Můžete například udělat vypočet nebo transformaci textu.
+  - Ideálně výstup demonstruje spojení hodnot ruzných datových typů (čísla a text)
 
 ## 2. možnost (chci už vymyšlené zadání)
 
