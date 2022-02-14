@@ -9,7 +9,8 @@
 7. Funkce `print()` a `input()`
 8. Spojení hodnot různých datových typů
 9. [Sekvenční hodnoty - řetězec, list]
-10. [Parametry příkazové řádky]
+10. [Metoda `append()`]
+11. [Parametry příkazové řádky]
 
 # Materials
 
@@ -67,6 +68,7 @@ Pokud by vás CLI zaujali více, doporučuji podívat se na více komplexní pyt
 - Znám funkce `print()` a `input()` a umím z terminálu načíst vstup od uživatele a opět ho vypsat
 - [Umím přitupovat k jednotlivým písmenům-částem řetězce]
 - [Umím definovat seznam hodnot a přitupovat k jednotlivým prvkům]
+- [Umím do seznamu přidat prvek]
 - [Umím skript zavolat s parametry a opět si je vypsat na výstup]
 
 
