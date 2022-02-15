@@ -20,7 +20,7 @@
 - [Vstup a vystup](https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/vstup-vystup)
 - [Sekvenční hodnoty](https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/sekvence)
   - Pozor vynechali jsme kapitolu s podmínkami (schválně)
-- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže)
+- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případne [kapitola z kodim](https://kodim.cz/czechitas/python-data/zaklady-programovani/prvni-programy/#parametry-prikazove-radky) (pozor nektere zmiňované věci jsme ještě nebrali))
 
 ## Parametry příkazové řádky
 
