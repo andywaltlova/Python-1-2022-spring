@@ -8,7 +8,7 @@
 ## 1. možnost (více volnosti pro vlastní fantazii a to co vás zajímá)
 Tato varianta úkolu pouze specifikuje co skript má obsahovat, způsob jakým toho dosáhnete je na vás.
 
-- Načíst hodnotu (nebo více hodnot) od uživatele (funkce `input()` nebo parametry příkazové řádky)
+- Načíst hodnotu (nebo více hodnot) od uživatele (funkce `input()`)
 - Naimportovat si modul (Pouze [standartní knihovna](https://docs.python.org/3/library/))
   - doporučuji [matematické moduly](https://docs.python.org/3/library/numeric.html), nebo například modul [`calendar`](https://docs.python.org/3/library/calendar.html)
   - úkolem je alespoň trochu se zorientovat v dokumentaci, nevadí tedy pokud si kus kódu najdete a do úkolu zkopírujete
