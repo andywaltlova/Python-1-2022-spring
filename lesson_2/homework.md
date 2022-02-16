@@ -15,7 +15,7 @@ Tato varianta úkolu pouze specifikuje co skript má obsahovat, způsob jakým t
 - Použít alespoň jednu funkci z naimportovaného modulu
 - Vypsat výsledek funkce na výstup (po spuštění skripu tedy uvidím nějakou zprávu v terminálu)
   - Můžete například udělat vypočet nebo transformaci textu.
-  - Ideálně výstup demonstruje spojení hodnot ruzných datových typů (čísla a text)
+  - Ideálně výstup demonstruje spojení hodnot ruzných datových typů (čísla, text, list)
 
 ## 2. možnost (chci už vymyšlené zadání)
 
