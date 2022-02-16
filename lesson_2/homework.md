@@ -26,8 +26,11 @@ Tedy například pokud skriptu dám den 14, měsíc 2 a rok 2022 výsledkem bude
 Problém doporučuji rozdělit na menší podproblémy a ty řešit postupně.
 
 1. Import potřebného modulu
-2. Načtení vstupu (použijte jeden ze způsobů, které jsme si ukazovali - `input()`, parametry příkazové řádky)
-3. Správně zavolat funkci `calendar.weekday()` a výsledek si uložit do proměnné
+2. Načtení vstupu (pozor na spravne datove typy)
+3. Správne zavolaní funkce `calendar.weekday()` a uložení návratové hodnoty
 4. Správně využít výsledek z předchozího volání funkce `calendar.weekday()` k získání názvu dne z proměnné `calendar.day_name`
 5. Jednotlivé části spojit do řetězce
 6. Řetězec vypsat na výstup pomocí funkce `print()`
+
+
+Výsledkem je tedy spustitelný kód, který proběhne bez chyb.
