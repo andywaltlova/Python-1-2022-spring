@@ -8,9 +8,8 @@
 6. Vytvoření prvního skriptu
 7. Funkce `print()` a `input()`
 8. Spojení hodnot různých datových typů
-9. [Sekvenční hodnoty - řetězec, list]
-10. [Metoda `append()`]
-11. [Parametry příkazové řádky]
+9. Sekvenční hodnoty - řetězec, list
+10. Metoda `append()`
 
 # Materials
 

@@ -1,4 +1,4 @@
-# První skript
+# Načtení hodnot z parametrů, podmínky
 
 **Deadline: 2.3. 23:59**
 

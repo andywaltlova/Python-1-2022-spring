@@ -10,9 +10,11 @@
 
 - [Podmínky](https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/podminky)
   - `bool` hodnoty
-  - Logické operátory `and` a `or`
-- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případne [kapitola z kodim](https://kodim.cz/czechitas/python-data/zaklady-programovani/prvni-programy/#parametry-prikazove-radky)
+  - Logické operátory `and` a `or` ([například zde](https://naucse.python.cz/lessons/beginners/and-or/))
+- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případně [kapitola z kodim](https://kodim.cz/czechitas/python-data/zaklady-programovani/prvni-programy/#parametry-prikazove-radky)
 - [Sekvenční hodnoty (tuple, množina)](#sekvenční-hodnoty-tuple-range-množina)
+  - [Rozbalení hodnot](#unpackingrozbalení-hodnot)
+  - [Oficialní dokumenace](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
 ## Parametry příkazové řádky
 
@@ -27,17 +29,21 @@ import sys
 
 print(sys.argv)
 ```
+
 Následující spuštění skriptu by vypsalo tento výsledek
 
 ```
 python3 mine_script.py
 ['mine_script.py']
 ```
+
 Pokud skriptu při spuštění dám nějaké parametry (oddělené mezerou), objeví se v našem listu také.
+
 ```
 python3 mine_script.py arg_1 arg_2
 ['mine_script.py', 'arg_1', 'arg_2']
 ```
+
 K těmto parametrům můžete přistupovat pomocí indexu proměnné `sys.argv`, tedy pro první parameter `sys.argv[1]` (na prvním indexu je název skriptu). Podobně jako u funkce `input()`, argumenty jsou vždy řetězce.
 
 ### Něco navíc
@@ -47,11 +53,6 @@ S tímto principem se můžete setkat i u CLI (Command line interface), tedy apl
 Moc pěkně je CLI vysvětlené v [tomto](https://youtu.be/mUXVBMhr7Xg) videu (anglicky), přímo s ukázkami na Windows.
 
 Pokud by vás CLI zaujali více, doporučuji podívat se na více komplexní python modul `argparse`, kerý je uzpůsobený k vytvoření vašeho vlastního CLI.
-
-
-
-
-
 
 ## Sekvenční hodnoty (tuple, množina)
 
@@ -64,7 +65,6 @@ TBD
 # Knowledge check
 
 - TBD
-
 
 # Meme for this week
 
