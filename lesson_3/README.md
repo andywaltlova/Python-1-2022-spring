@@ -1,14 +1,18 @@
 # Outline
 
-1. Parametry příkazové řádky
-2. TBD
+1. Podmínky
+2. Parametry příkazové řádky
+3. Sekvenční hodnoty (tuple, range, množina)
 
 # Materials
 
 ## Links
 
-- TBD
-- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případne [kapitola z kodim](https://kodim.cz/czechitas/python-data/zaklady-programovani/prvni-programy/#parametry-prikazove-radky) (pozor nektere zmiňované věci jsme ještě nebrali))
+- [Podmínky](https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/podminky)
+  - `bool` hodnoty
+  - Logické operátory `and` a `or`
+- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případne [kapitola z kodim](https://kodim.cz/czechitas/python-data/zaklady-programovani/prvni-programy/#parametry-prikazove-radky)
+- [Sekvenční hodnoty (tuple, množina)](#sekvenční-hodnoty-tuple-range-množina)
 
 ## Parametry příkazové řádky
 
@@ -43,6 +47,19 @@ S tímto principem se můžete setkat i u CLI (Command line interface), tedy apl
 Moc pěkně je CLI vysvětlené v [tomto](https://youtu.be/mUXVBMhr7Xg) videu (anglicky), přímo s ukázkami na Windows.
 
 Pokud by vás CLI zaujali více, doporučuji podívat se na více komplexní python modul `argparse`, kerý je uzpůsobený k vytvoření vašeho vlastního CLI.
+
+
+
+
+
+
+## Sekvenční hodnoty (tuple, množina)
+
+TBD
+
+### Unpacking/Rozbalení hodnot
+
+TBD
 
 # Knowledge check
 
