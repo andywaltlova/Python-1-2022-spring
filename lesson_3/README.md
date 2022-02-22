@@ -56,16 +56,39 @@ Pokud by vás CLI zaujali více, doporučuji podívat se na více komplexní pyt
 
 ## Sekvenční hodnoty (tuple, množina)
 
-TBD
+Množiny - https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+Tuples - https://docs.python.org/3/library/stdtypes.html#tuple
+
+(a nebo samozřejmě googlete)
 
 ### Unpacking/Rozbalení hodnot
 
-TBD
+K rozbalení hodnot ze sekvence do jednotlivých proměnných můžeme jednoduše použít přiřazení. Občas je lepší použít unpacking než postupně pomocí indexů ukládat hodnoty do proměnných.
+
+```py
+numbers = [1, 2, 3]
+one, two, three = numbers
+```
+
+Podobný princip se dá využít pro předání více argumentů funkci. Hodnoty ze sekvence můžeme rozbalit pomocí operátoru `*`. Pozdějí v kurzu si ukážeme, že se dá použít i operátor `**` pro rozbalení hodnot ve slovníku (páry klíčů a hodnot, proto dvě hvězdičky).
+
+```py
+numbers = [1, 2, 3]
+letters = ['a', 'b', 'c']
+
+print(*numbers, *letters)
+```
 
 # Knowledge check
 
-- TBD
+- Ovládám syntaxi podmínek: `if`, `else`, `elif`
+- Umím spojovát více logických výrazů pomocí operátorů `and` a `or`
+- Ovládám operátory `in` a `not` (případne kombinaci `not in`)
+- Umím načíst parametry z příkazové řádky při spuštění skriptu
+- Ovládám základní množinové operace (vím kde a jak hledat více informací)
+- Umím sekvenci hodnot rozbalit do samostatných proměnných
+- Umím sekvenci hodnot předat funkci jako jednotlivé parametry
 
 # Meme for this week
 
-TBD
+![Python bites](https://pics.me.me/does-your-python-bite-no-but-it-can-hurt-you-63085382.png)
