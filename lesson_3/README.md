@@ -11,8 +11,8 @@
 - [Podmínky](https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/podminky)
   - `bool` hodnoty
   - Logické operátory `and` a `or` ([například zde](https://naucse.python.cz/lessons/beginners/and-or/))
-- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případně [kapitola z kodim](https://kodim.cz/czechitas/python-data/)zaklady-programovani/prvni-programy/#parametry-prikazove-radky)
-- [Sekvenční hodnoty (tuple, množina)](#sekvenční-hodnoty-tuple-range-množina)
+- [Parametry příkazové řádky](#parametry-příkazové-řádky) (níže, případně [kapitola z kodim](https://kodim.cz/czechitas/python-data/zaklady-programovani/prvni-programy/#parametry-prikazove-radky))
+- [Sekvenční hodnoty (tuple, množina)](#sekvenční-hodnoty-tuple-množina)
   - [Rozbalení hodnot](#unpackingrozbalení-hodnot)
   - [Oficialní dokumenace](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
@@ -44,7 +44,7 @@ python3 mine_script.py arg_1 arg_2
 ['mine_script.py', 'arg_1', 'arg_2']
 ```
 
-K těmto parametrům můžete přistupovat pomocí indexu proměnné `sys.argv`, tedy pro první parameter `sys.argv[1]` (na prvním indexu je název skriptu). Podobně jako u funkce `input()`, argumenty jsou vždy řetězce.
+K těmto parametrům můžete přistupovat pomocí indexu proměnné `sys.argv`, tedy pro první parameter `sys.argv[1]` (na prvním místě (nultém indexu) je název skriptu). Podobně jako u funkce `input()`, argumenty jsou vždy řetězce.
 
 ### Něco navíc
 
