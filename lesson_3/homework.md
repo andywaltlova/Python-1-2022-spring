@@ -5,14 +5,12 @@
 [Odkaz na návod k odevzdání](https://docs.google.com/presentation/d/1iVXiZC8hUy9Irxxqebdaaz7-uTkuJT16/edit?usp=sharing&ouid=104337294426056946104&rtpof=true&sd=true)
 
 
-Během tohoto úkolu si vytvoříme naše malé CLI (Command-line interface), které bude brát parametry pomocí modulu `sys`. Během úkolu využijeme hlavně metody a funkce k transformaci textu, seznamy, operátory `in`, `not in` a podmínky.
+Během tohoto úkolu si vytvoříme naše malé CLI (Command-line interface), které bude brát parametry pomocí modulu `sys`. Během úkolu využijeme hlavně metody a funkce k transformaci textu, seznamy a podmínky.
 
-V obou variantách předpokládejte, že uživatel zadává pouze validní vstupy - nebudeme zatím nijak ošetřovat vyjímky, pro komplexnější řešení bychom stejně neparsovali text s parametrů přímo, ale pravděpodobně bychom použili modul [`argparse`](https://docs.python.org/3/library/argparse.html) nebo [`click`](https://click.palletsprojects.com/en/8.0.x/).
+V obou variantách předpokládejte, že uživatel zadává pouze validní vstupy - nebudeme zatím nijak ošetřovat vyjímky, pro komplexnější řešení bychom stejně neparsovali text z parametrů přímo, ale pravděpodobně bychom použili modul [`argparse`](https://docs.python.org/3/library/argparse.html) nebo [`click`](https://click.palletsprojects.com/en/8.0.x/).
 
 - [Vymyšlené zadání](#zadání)
 - [Pokyny pro ty, kteří si chtějí vymyslet vlastní zadání](#chci-si-vymyslet-vlastní-téma-na-cli)
-
-Níže je uvedeno zadání, pro ty kdo by si chtěli zvolit svoje téma CLI (command-line interface), přeskočte na sekci níže.
 
 ## Zadání
 
@@ -45,18 +43,18 @@ Představuje parametr obsahující číslo indikující kolik snídaní objedná
 Výsledná cena tedy musí reflektovat, pro kolik jídel objednávám.
 
 #### TIP
-Představuje parametr indikující, zda chcete podniku dát dýško (hodnota bude buď 0 nebo 1, případně vámi zvolené ekvivalenty)
+Představuje parametr indikující, zda chcete podniku dát spropitné (hodnota bude buď 0 nebo 1, případně vámi zvolené ekvivalenty)
 
-Pokud dýško chceme dát (hodnota 1), k ceně připočtěte 10%. V opačném případě (hodnota 0) cenu neměňte.
+Pokud spropitné chceme dát (hodnota 1), k ceně připočtěte 10%. V opačném případě (hodnota 0) cenu neměňte.
 
 #### TOGO
-Představuje parametr indikující, zda chcete jídlo s sebou (hodnota bude buď 0 nebo 1, doporučuji převést na bool)
+Představuje parametr indikující, zda chcete jídlo s sebou (hodnota bude buď 0 nebo 1, případně vámi zvolené ekvivalenty)
 
 Pokud chceme snídani s sebou (hodnota 1), za každou snídani (zaleží pro kolik osob snídani objednávám) zvyšte cenu o 10 Kč za obalové materiály. V opačném případě (hodnota 0) cenu neměňte.
 
 ### V případě spuštění skriptu s jedním parametrem `'help'`
 
-Skript vypíše nápovědu, která bude obsahovat seznam parametrů které je možno použít. Po vypsání nápovědy program skončí, můžete využít funkci `exit()`.
+Skript vypíše nápovědu, která bude obsahovat seznam parametrů které je možno použít (meníčko). Po vypsání nápovědy program skončí, můžete využít funkci `exit()`.
 
 
 ### Příklady spuštění skriptu
@@ -79,4 +77,4 @@ Nápověda obsahující meníčko (možnosti, které mužu v FOOD a DRINK parame
 
 Nechcete objednávat snídani ale chcete například nakupovat v obchodě/jít k zubaři/objednávat na eshopu/adoptovat kočičky/ cokoli jiného? Samozřejmě můžete, snažte se pouze v rozumné míře procvičit si parametry příkazové řádky, indexaci, podmínky, použítí základních funkcí (`len()`, `round()`, apod.) a metod řetězců (`string.split()`, další v [dokumentaci](https://docs.python.org/3/library/stdtypes.html#string-methods)).
 
-Váše řešení by vždy mělo jíd zavolat s jedním parametrem `'help'` (podobně jako zadání výše), aby opravující věděl, jak může váš program použít.
+Váše řešení by vždy mělo jít zavolat s jedním parametrem `'help'` (podobně jako zadání výše), aby opravující věděl, jak může váš program použít.
