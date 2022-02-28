@@ -27,27 +27,27 @@ python3 order_breakfast.py 'help'
 ```
 
 ### V případě spuštění skriptu s pěti parametry
-#### DRINK (string)
+#### ☕ DRINK (string)
 Druhy a ceny nápojů si definujte podle sebe.
 
 Představuje parametr obsahující nápoj, vždy bude ve formátu `drink_name-[big or small]`, tedy například `cofee-big`, `tea-small`. Pokud bude nápoj velký, jeho cena bude o polovinu větší než u malého. Pro zjištění jaký nápoj si uživatel objednává využijte metodu [`split()`](https://docs.python.org/3/library/stdtypes.html#str.split) a operátor `in`.
 
-#### FOOD (string)
+#### 🍰 FOOD (string)
 Druhy a ceny jídel si definujte podle sebe.
 
 Podobně jako nápoj, ale jídlo nemá danou velikost, parametr tedy bude pouze obsahovat string s názvem jídla, kterou bude mít vámi defnovanou cenu.
 
-#### NO_PEOPLE (integer)
+#### 🧑‍🤝‍🧑 NO_PEOPLE (integer)
 Představuje parametr obsahující číslo indikující kolik snídaní objednávám (předpokládáme, že všechny osoby si dávají stejné jídlo).
 
 Výsledná cena tedy musí reflektovat, pro kolik jídel objednávám.
 
-#### TIP
+#### 💰 TIP
 Představuje parametr indikující, zda chcete podniku dát spropitné (hodnota bude buď 0 nebo 1, případně vámi zvolené ekvivalenty)
 
 Pokud spropitné chceme dát (hodnota 1), k ceně připočtěte 10%. V opačném případě (hodnota 0) cenu neměňte.
 
-#### TOGO
+#### 🥡 TOGO
 Představuje parametr indikující, zda chcete jídlo s sebou (hodnota bude buď 0 nebo 1, případně vámi zvolené ekvivalenty)
 
 Pokud chceme snídani s sebou (hodnota 1), za každou snídani (zaleží pro kolik osob snídani objednávám) zvyšte cenu o 10 Kč za obalové materiály. V opačném případě (hodnota 0) cenu neměňte.
@@ -59,7 +59,7 @@ Skript vypíše nápovědu, která bude obsahovat seznam parametrů které je mo
 
 ### Příklady spuštění skriptu
 
-```py
+```
 python3 order_breakfast.py coffe-small pancakes 1 0 0
 Objednali jste si: .... (může být i celá účtenka, fantazii se meze nekladou)
 Výsledná cena je: ....
