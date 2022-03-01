@@ -1,21 +1,27 @@
 # Outline
 
-1. For loop, `range()`
+1. For loop
 2. List comprehension
    - inline podmínky
 3. Slovníky
+
+Materiály na doma:
+4. Slovníky a cykly
    - Dict comprehension
-4. While loop + `break`, `continue`
+5. While loop + `break`, `continue`
 
 # Materials
 
 ## Links
 
+### Materials from live lesson
 - [Cykly - for loop](https://kodim.cz/czechitas/uvod-do-progr/prvni-krucky/cykly)
 - [List comprehension](https://kodim.cz/czechitas/python-data/zaklady-programovani/text-chroustani/#chroustani-seznamu)
   - [One line if statement](#podmínky-na-jeden-řádek)
 - [Slovníky](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky)
-  - [Slovníky a cykly](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly)
+
+### Additional materials for homework
+- [Slovníky a cykly](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly)
   - [Dict comprehension](#dict-comprehension)
 - [Cykly - přerušení a while loop](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/cykly-2)
 
@@ -72,13 +78,15 @@ nums = {i+1 for i in range(10)}
 # Knowledge check
 
 - Umím syntaxi pro for loop
-  - Umím procházet sekvence - řetězce, listy, slovníky a rozsahy (`range()`)
+  - Umím procházet sekvence - řetězce, listy, slovníky.
 - Umím napsat list comprehension
   - Vím jak použít inline if statement v list comprehension
 - Vím jaký je rozdíl mezi klasickým for cyklem a list comprehension
 - Vím jak se vytváří slovník a kde je vhodné ho použít
+
+Po zpracovaní domácího úkolu:
 - Vím, že existuje dict a set comprehension (stejný princip jako list comprehension)
-- Vím, že je možnost cyklus přerušit (`break`), případne iteraci přeskočit (`continue`)
+- Vím, že je možnost cyklus (for i while) přerušit (`break`), případne iteraci přeskočit (`continue`)
 
 # Meme for this week
 
