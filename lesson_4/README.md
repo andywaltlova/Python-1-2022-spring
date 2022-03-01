@@ -6,6 +6,7 @@
 3. Slovníky
 
 Materiály na doma:
+
 4. Slovníky a cykly
    - Dict comprehension
 5. While loop + `break`, `continue`
