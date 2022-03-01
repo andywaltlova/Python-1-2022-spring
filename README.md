@@ -6,7 +6,7 @@
 2.  **15-02-2022** - [Import modulů, print, input, sekvenční hodnoty (string, list)](lesson_2)
 3.  **22-02-2022** - [Podmínky, parametry příkazové řádky, [Sekvenční hodnoty (tuple, množina)]](lesson_3)
 4.  **01-03-2022** - [Cykly - for, while (+list comprehension), slovníky](lesson_4)
-5.  **15-03-2022** - TBD
+5.  **15-03-2022** - [Opakování, Funkce](lesson_5)
 6.  **22-03-2022** - TBD
 7.  **29-03-2022** - TBD
 8.  **05-04-2022** - TBD
