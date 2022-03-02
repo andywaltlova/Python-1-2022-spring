@@ -169,3 +169,106 @@ data = [
                 "population": "2000000000"}
     },
 ]
+
+# 1
+# Ideálně by mass, height, rotation_period, orbital_period, diameter, surface_water a population meli byt cisla
+
+for person in data:
+    person['height'] = int(person['height'])
+    person['mass'] = int(person['height'])
+
+    planet = person['homeworld']
+    keys_to_convert = ['rotation_period', 'orbital_period', 'diameter', 'surface_water', 'population']
+    for key in keys_to_convert:
+        value = planet[key]
+        if value.isdigit():
+            planet[key] = int(value)
+        else:
+            planet[key] = -1
+
+# Pro kontrolu
+# for d in data:
+#     print(d)
+
+# 2
+
+heights = [person['height'] for person in data]
+avg = round(sum(heights) / len(heights), 2)
+print(f'Prumerna vyska postav je {avg} cm.')
+
+
+# 3
+
+# ziskání hodnot, které klic gender nabývá
+genders = set([person['gender'] for person in data])
+
+# Vice variant reseni
+
+# Oba klasicke for cykly
+list_of_lists = []
+for gender in genders:
+    names = []
+    for person in data:
+        if person['gender'] == gender:
+            names.append(person['name'])
+    list_of_lists.append(names)
+
+# Kombinace klasickeho cyklu a list comprehension
+list_of_lists = []
+for gender in genders:
+    names = [person['name'] for person in data if person['gender'] == gender]
+    list_of_lists.append(names)
+
+# Pouze List comprehension
+list_of_lists = [[person['name'] for person in data if person['gender'] == gender] for gender in genders]
+
+print(list_of_lists)
+
+
+# Bonus
+
+# Cykly
+gender_dict = {}
+for gender in genders:
+    names = []
+    for person in data:
+        if person['gender'] == gender:
+            names.append(person['name'])
+    gender_dict[gender] = names
+
+# Dict comprehension
+gender_dict = {gender:[person['name'] for person in data if person['gender'] == gender] for gender in genders}
+
+print(gender_dict)
+
+# 4
+
+for person in data:
+    has_white_hair = 'white' in person['hair_color']
+    has_white_skin = 'white' in person['skin_color']
+
+    if has_white_hair or has_white_skin:
+        print(person['name'])
+
+# 5
+
+# Cele objekty
+planets = [person['homeworld'] for person in data]
+
+# Kdybychom chteli pouze objekty ktere nejsou 'unknown'
+planets = [person['homeworld'] for person in data if person['homeworld']['name'] != 'unknown']
+
+# Jen jmena
+planets = [person['homeworld']['name'] for person in data]
+
+print(planets)
+
+# Duplicit se muzeme zbavit napriklad predelanim na mnozinu.
+
+# V pripade jmen staci
+planets = set(planets)
+print(planets)
+
+# V pripade slovniku nesaci pouzit pouze set(), protoze python neumi poznat zda jsou dva slovniky totozne.
+# V tomto pripade by bylo k zamysleni, jaky udaj nam unikatne identifikuje planetu. Mohli bychom napriklad vytvorit slovnik,
+# kde klice jsou jmena planet (coz by zajistilo unikatnost) a hodnoty by byly zbyla data o planetach.
