@@ -5,11 +5,11 @@
    - inline podmínky
 3. Slovníky
 
-Materiály na doma:
+V doplňkových materiálech:
 
-4. Slovníky a cykly
+1. Slovníky a cykly
    - Dict comprehension
-5. While loop + `break`, `continue`
+2. While loop + `break`, `continue`
 
 # Materials
 
@@ -73,6 +73,7 @@ points = {
 filered_dict = {k:v for k,v in points.items() if v > 10}
 
 # And to be complete, here is set comprehension
+# How range() function works can be found in official documentation -> https://docs.python.org/3/library/stdtypes.html#range
 nums = {i+1 for i in range(10)}
 ```
 
@@ -85,7 +86,7 @@ nums = {i+1 for i in range(10)}
 - Vím jaký je rozdíl mezi klasickým for cyklem a list comprehension
 - Vím jak se vytváří slovník a kde je vhodné ho použít
 
-Po zpracovaní domácího úkolu:
+Po přečtení doplňkových materiálů:
 - Vím, že existuje dict a set comprehension (stejný princip jako list comprehension)
 - Vím, že je možnost cyklus (for i while) přerušit (`break`), případne iteraci přeskočit (`continue`)
 
