@@ -18,5 +18,5 @@ Tady **si můžete vybrat ze dvou možností, případně můžete cvičení i n
 
 Opět opakuji to co bylo řečeno na lekci, piště klidně do slacku, když něco nebude jasné, je potřeba upřesnění. Zároveň připomínám, že můžete odevzdávat i ne úplně kompletní úkoly, zpětnou vazbu dostanete vždy, což vám pomůže posouvat se dál :)
 
-- Úkoly ze cvičení na [kódim](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly/#cviceni-slovniky-a-cykly). Všechny 4, tedy včetně [cvičení na doma](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly/#cviceni-na-doma)).
+- Úkoly ze cvičení na [kódim](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly/#cviceni-slovniky-a-cykly). Všechny 4, tedy včetně [cvičení na doma](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly/#cviceni-na-doma).
 - Star Wars zadání připravené v [tomto souboru](hw_3_data.py).
