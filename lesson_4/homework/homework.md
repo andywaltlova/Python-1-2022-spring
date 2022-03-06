@@ -9,12 +9,12 @@ Domácí úkol **má dvě části**, první je spíše teoretické pročtení ma
 ## 1. část
 Teorii k slovníkům a jak je procházet cyklem můžete najít v [této kapitole](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly). Pokud byste chtěli zkusit dict comprehension (na lekci jsme dělali pouze list comprehension), tak teorie je [v materiálech ke 4.lekci](../README.md#dict-comprehension), případně můžete více detailu dohledat na internetu.
 
-Jako úplně dobrovolná teorie, je kapitola zmiňující druhý typ cyklu (`while`) a způsoby, kterými lze cyklus přerušit předčasně, případně 'přeskočit' iteraci.
+Jako úplně **dobrovolná** teorie, je kapitola zmiňující druhý typ cyklu (`while`) a způsoby, kterými lze cyklus přerušit předčasně, případně 'přeskočit' iteraci.
     - [Cykly - přerušení a while loop](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/cykly-2)
 
 ## 2. část
 
-Tady si můžete vybrat ze dvou možností, případně můžete cvičení i nakombinovat. Udělat pár z kodím a pár z přípraveného souboru.
+Tady **si můžete vybrat ze dvou možností, případně můžete cvičení i nakombinovat**. Udělat pár z kodím a pár z přípraveného souboru.
 
 Opět opakuji to co bylo řečeno na lekci, piště klidně do slacku, když něco nebude jasné, je potřeba upřesnění. Zároveň připomínám, že můžete odevzdávat i ne úplně kompletní úkoly, zpětnou vazbu dostanete vždy, což vám pomůže posouvat se dál :)
 
