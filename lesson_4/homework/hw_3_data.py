@@ -1,7 +1,7 @@
 """
 V proměnné níže naleznete data, která budete zpracovávat/upravovat/filtrovat v následujících úkolech.
 
-Jako první si tedy prohlédněte ja kdata vypadají, jaká je struktura dat.
+Jako první si tedy prohlédněte jak data vypadají, jaká je struktura dat.
 Připomínám že hranaté závorky značí listy, složené značí slovníky.
 Prohlédněte si také datové typy jednotlivých hodnot.
 
