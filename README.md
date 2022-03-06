@@ -3,9 +3,9 @@
 # 🐍 Python 1 - jaro 2022
 
 1.  **08-02-2022** - ✔️ [Orientace ve VSC, Kde se Python používá + úvod (čísla, řetězce, proměnné)](lesson_1)
-2.  **15-02-2022** - ✔️ [Import modulů, print, input, sekvenční hodnoty (string, list)](lesson_2)
-3.  **22-02-2022** - 👷‍♀️ [Podmínky, parametry příkazové řádky, [Sekvenční hodnoty (tuple, množina)]](lesson_3)
-4.  **01-03-2022** - 👷‍♀️ [Cykly - for, while (+list comprehension), slovníky](lesson_4)
+2.  **15-02-2022** - ✔️ [Import modulů, print, input, sekvenční hodnoty (string, list)](lesson_2) | [**Úkol**](lesson_2/homework/)
+3.  **22-02-2022** - 👷‍♀️ [Podmínky, parametry příkazové řádky, [Sekvenční hodnoty (tuple, množina)]](lesson_3) | [**Úkol**](lesson_3/homework/)
+4.  **01-03-2022** - 👷‍♀️ [Cykly - for, while (+list comprehension), slovníky](lesson_4) | [**Úkol**](lesson_4/homework/)
 5.  **15-03-2022** - ❎ [Opakování, Funkce](lesson_5)
 6.  **22-03-2022** - ❎ TBD
 7.  **29-03-2022** - ❎ TBD
