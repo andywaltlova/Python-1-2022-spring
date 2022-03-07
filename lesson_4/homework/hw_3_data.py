@@ -7,7 +7,8 @@ Prohlédněte si také datové typy jednotlivých hodnot.
 
 1. Upravte data, tak aby hodnoty měli odpvídající datový typ.
 
-To znamená například hodnoty u klíče "height" by velice pravděpodobně měli být čísla.
+To znamená například hodnoty u klíče "height" by velice pravděpodobně měli být čísla. Stačí upravit číselné hodnoty (pro počítání v dalších úkolech).
+S hodnotami 'birth_year' nebo 'gravity' příliš dělat nejde a dál se s nimi v úkolu nijak nepočítá.
 Než budete upravů zkoušet pro všechny data, klidně si nejdřív vemte jen první slovník (data[0]) a zkoušejte si to na něm.
 Pozor ale, že některá číselná data nejsou dostupná u všech slovníků, například "population" je u některých planet "unknown".
 Zde se vám bude hodit kontrolovat, zda string opravdu obsahuje čísla. Můžete k tomu využít metodu isdigit() - https://docs.python.org/3/library/stdtypes.html#str.isdigit.
