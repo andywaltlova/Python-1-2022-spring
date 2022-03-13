@@ -16,7 +16,7 @@
 
 - Umín napsat vlastní funkci
 - Umím zavolat a použít vlastní funkci
-- Dokážu problém rozdělit na menší problémy, které jsou rešit v samostatných funkcích
+- Dokážu problém rozdělit na menší problémy, které jdou rešit v samostatných funkcích
 - Vím, že funkce mohu importovat ze souboru (modulu)
 - Vím jak v Pythonu ošetřit výjimky
 
