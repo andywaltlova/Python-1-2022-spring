@@ -10,7 +10,6 @@
 
 # Exercises
 
-TBD
 
 # Knowledge check
 
