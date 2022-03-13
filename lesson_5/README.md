@@ -1,15 +1,16 @@
 # Outline
 
 1. Opakování
-   - [Cvičení na začátek](#exercises)
    - Kahoot
+     - Proměnné, datové typy
+     - Podmínky
+     - Rozlišení listu, seznamu, množiny, tuple
+     - Slovníky a jeho metody
+     - Cyklus `for`
+     - List comprehension
 2. [Funkce](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/funkce)
    - [Moduly](https://docs.python.org/3/tutorial/modules.html)
 3. [Výjimky](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/vyjimky)
-
-
-# Exercises
-
 
 # Knowledge check
 
