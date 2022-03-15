@@ -1,7 +1,7 @@
 # Outline
 
 1. Opakování
-   - Kahoot
+   - [Kahoot](https://kahoot.it/challenge/52d955f9-531f-445d-bdc4-913dd8d9a342_1647369656187) (do 27.3 otevřen)
      - Proměnné, datové typy
      - Podmínky
      - Rozlišení listu, seznamu, množiny, tuple
