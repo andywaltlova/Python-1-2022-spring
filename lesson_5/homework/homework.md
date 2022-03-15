@@ -31,3 +31,6 @@ Tipy:
 - Pro specifikování sekvencí ruzných znaků můžete použít proměnné z modulu [`string`](https://docs.python.org/3/library/string.html#string-constants).
 - Snažte se problém rozdělit na menší problémy a za použití funkcí zbytečně neduplikovat kód
 - Využijte poziční argumenty a funkci input pro získání vstupu od uživatele - můžete to nakombinovat.
+
+## Knowledge check
+  - Vím jak v Pythonu ošetřit výjimky
