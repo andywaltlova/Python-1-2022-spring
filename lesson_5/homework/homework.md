@@ -6,7 +6,7 @@
 
 ## Zadání
 
-Napište program který bude simulovat registraci uživatele do systému, tedy vytvoření uživatelského účtu. Program si od uživatele vyžádá potřebné informace k registraci (zvolte si je sami, vzpomeňtě si/najděte si jaké údaje požadují aplikace, které používáte).
+Napište program který bude simulovat registraci uživatele do systému, tedy vytvoření uživatelského účtu. Program si od uživatele vyžádá potřebné informace k registraci (zvolte si je sami, vzpomeňte si/najděte si jaké údaje požadují aplikace, které používáte).
 Hlavní součástí, kterou je zapotřebí naimplementovat je generátor hesel. Buďte kreativní při generování hesel – silná hesla se skládají z malých písmen, velkých písmen, čísel a symbolů. Hesla by měla být náhodná - při každém spuštění programu se vygeneruje jiné heslo.
 
 Formální požadavky na funkcionalitu (tzn. je mi jedno **jak** konkrétně program napíšete, hlavně že půjde spustit)
