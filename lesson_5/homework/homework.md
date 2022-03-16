@@ -6,14 +6,14 @@
 
 ## Zadání
 
-Napište program který bude simulovat registraci uživatele do systému, tedy vytvoření uživatelského účtu. Program si od uživatele vyžádá potřebné informace k registraci (zvolte si je sami, vzpomeňtě si/najděte si jaké údaje požadují aplikace, které používáte).
+Napište program který bude simulovat registraci uživatele do systému, tedy vytvoření uživatelského účtu. Program si od uživatele vyžádá potřebné informace k registraci (zvolte si je sami, vzpomeňte si/najděte si jaké údaje požadují aplikace, které používáte).
 Hlavní součástí, kterou je zapotřebí naimplementovat je generátor hesel. Buďte kreativní při generování hesel – silná hesla se skládají z malých písmen, velkých písmen, čísel a symbolů. Hesla by měla být náhodná - při každém spuštění programu se vygeneruje jiné heslo.
 
-Formální požadavky na funkcionalitu (tzn. je mi jedno **jak** přesně bude programfungovat)
+Formální požadavky na funkcionalitu (tzn. je mi jedno **jak** konkrétně program napíšete, hlavně že půjde spustit)
 
 - Uživatel zadá svoje osobní údaje
 - Uživatel si může zvolit jak dlouhé vygenerované heslo má být.
-- Uživatel si může nějakým způsobem zvolit strukturu hesla (konkrétní podmínky jsou na vás), tedy například že má obsahovat:
+- Uživatel si může nějakým způsobem zvolit strukturu hesla (konkrétní podmínky jsou na vás). Strukturou je myšleno, že uživatel bude mít možnost nějakým způsobem ovlivnit, jak heslo bude vypada, například že bude mít 3 velká písmena, 1 malé, 2 čísla a bude v něm někde jméno mazlíčka. Konkrétní implementace nebo konkrétní věci které uživatele necháš upravit jsou na tobě - tedy záleží čistě na tobě, jak moc komplikované si to vymyslíš (ideálně začni s jednou možností a postupně přidávej další). Níže jsou nějaké návrhy, které můžeš využít.
   - Minimálně jedno malé písmeno (nebo konkrétní počet)
   - Minimálně jedno velké písmeno (nebo konkrétní počet)
   - Minimálně jedno číslo (nebo konkrétní počet)
