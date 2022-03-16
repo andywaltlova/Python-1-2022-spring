@@ -36,4 +36,15 @@ def get_mark(
         mark = 1
     return mark
 
-print(get_mark(30, 0, 20))
+# print(get_mark(30, 0, 20))
+
+# Exceptions
+
+vek = input('Zadej vek:')
+
+try:
+    vek = int(vek)
+    print(vek)
+except ValueError:
+    print('Zadal jsi nevalidni vstup')
+
