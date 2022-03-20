@@ -15,7 +15,7 @@
 
 # Knowledge check
 
-- Umín napsat vlastní funkci
+- Umím napsat vlastní funkci
 - Umím zavolat a použít vlastní funkci
 - Dokážu problém rozdělit na menší problémy, které jdou rešit v samostatných funkcích
 
