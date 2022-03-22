@@ -21,9 +21,22 @@ class Zamestnanec:
             print(f'Vzal sis {dny} dni dovolene, zbyva ti {self.dny_dovolene} dni.')
 
 
-michal = Zamestnanec('Michal', 'Kvetinar', 10, False)
+class Manazer(Zamestnanec):
+    def __init__(self, jmeno, pozice, dny_dovolene, zkusebni_doba, pocet_podrizenych):
+        super().__init__(jmeno, pozice, dny_dovolene, zkusebni_doba)
+        # self.jmeno = jmeno
+        # self.pozice = pozice
+        # self.dny_dovolene = dny_dovolene
+        # self.zkusebni_doba = zkusebni_doba
+        self.pocet_podrizenych = pocet_podrizenych
+
+    def __str__(self):
+        return super().__str__() + f' Jako manazer ma {self.pocet_podrizenych} podrizenych.'
+
+michal = Zamestnanec('Michal1', 'Kvetinar', 10, False)
 print(michal)
-michal.cerpani_dovolene(12)
-print(michal)
-michal.cerpani_dovolene(5)
-print(michal)
+michal_boss = Manazer('Michal2', 'Vedouci Kvetinarstvi', 20, True, 2)
+print(michal_boss)
+# michal_boss.cerpani_dovolene(10)
+# print(michal_boss)
+
