@@ -4,6 +4,13 @@
 
 [Odkaz na návod k odevzdání](https://docs.google.com/presentation/d/1iVXiZC8hUy9Irxxqebdaaz7-uTkuJT16/edit?usp=sharing&ouid=104337294426056946104&rtpof=true&sd=true)
 
+Materiály z lekce:
+1. [Objektově orienované programování](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/tridy)
+   - třídy, atributy, metody
+   - `__init__`, `__str__`
+2. [Dědičnost](https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/dedicnost)
+   - `super()`
+
 # Obecné požadavky na úkol (vyžaduje více času a vlastní iniciativy)
 
 Alespoň dvě třídy, které od sebe budou dědit nějaké atributy a metody. Mateřská třída by měla vždy být obecnější než třída, která některé vlastnosti a funkce dědí. Podobně jako jsme měli Zaměstnanec a Manažer (Manažer je pouze specifická kategorie zaměstnance).
