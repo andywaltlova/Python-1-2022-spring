@@ -8,13 +8,13 @@
 * [Soubory](https://kodim.cz/czechitas/python-data/zaklady-programovani/soubory)
 * Případně pro odvážnější [kapitola o json modulu](https://kodim.cz/czechitas/python-data/zaklady-programovani/slovniky-json/#format-json), budeme ji společně brát na příští lekci.
 
-# Požadavky na úkol
+# Obecné požadavky na úkol (vyžaduje více času a vlastní iniciativy)
 
 Skript, který bude číst data ze souboru, nějakým způsobem je transformuje a znovu do souboru zapíše. Může to být txt, csv i json soubor. Txt soubory jsme si ukazovali na lekci, odvážnější mohou zkusit pomocí dokumentace číst a zapisovat [json](https://docs.python.org/3/library/json.html) nebo [csv](https://docs.python.org/3/library/csv.html) soubor.
 
 Pokud hledáte inspiraci pro json soubor, můžete použít [tyto star wars data](star_wars.json), která byla v jednom z předchozích úkolů.
 
-# Vymyšlené zadání
+# Vymyšlené zadání (zadání z kodím, které je detailněji popsáno)
 
 [Úkol z kodím](https://kodim.cz/czechitas/python-data/zaklady-programovani/soubory/#exc-preznamkovani), který vyžaduje jak čtení tak zápis do souboru.
 
