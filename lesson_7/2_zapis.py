@@ -21,7 +21,7 @@ def rozepsana_vyplata():
         print(f'{month_salary} Kc')
 
     # novy kod - do souboru (varianta s list comprehension)
-    with open('vyplata_vystup', mode='w', encoding='utf-8') as file:
+    with open('vyplata_vystup.txt', mode='w', encoding='utf-8') as file:
         lines = [f'{month_hours * hour_pay} Kc\n' for month_hours in hours_per_month]
         file.writelines(lines)
 
