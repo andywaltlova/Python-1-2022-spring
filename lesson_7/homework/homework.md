@@ -12,7 +12,7 @@
 
 Skript, který bude číst data ze souboru, nějakým způsobem je transformuje a znovu do souboru zapíše. Může to být txt, csv i json soubor. Txt soubory jsme si ukazovali na lekci, odvážnější mohou zkusit pomocí dokumentace číst a zapisovat [json](https://docs.python.org/3/library/json.html) nebo [csv](https://docs.python.org/3/library/csv.html) soubor.
 
-Pokud hledáte inspiraci pro json soubor, můžete použít [tyto star wars data](star_wars.json), která byla v jednom z předchozích úkolů.
+Pokud hledáte inspiraci pro json nebo csv soubor, můžete použít [tyto star wars data](star_wars.json), která byla v jednom z předchozích úkolů, případne [tento csv soubor](znamky.csv).
 
 # Vymyšlené zadání (zadání z kodím, které je detailněji popsáno)
 
