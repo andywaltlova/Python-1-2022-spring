@@ -8,8 +8,8 @@
 4.  **01-03-2022** - ✔️ [Cykly - for, while (+list comprehension), slovníky](lesson_4) | [**Úkol**](lesson_4/homework/)
 5.  **15-03-2022** - ✔️ [Opakování, Funkce, Výjimky](lesson_5) | [**Úkol**](lesson_5/homework/)
 6.  **22-03-2022** - ✔️  [OOP, Dědičnost](lesson_6) | [**Úkol**](lesson_6/homework/)
-7.  **29-03-2022** - 👷‍♀️ [Práce se soubory](lesson_7) | [**Úkol**](lesson_7/homework/)
-8.  **05-04-2022** - ❎ TBD
+7.  **29-03-2022** - 👷‍♀️ [Práce se soubory (txt)](lesson_7) | [**Úkol**](lesson_7/homework/)
+8.  **05-04-2022** - 👷‍♀️ [Práce se soubory (json, csv)](lesson_8) | [**Úkol**](lesson_7/homework/)
 9.  **12-04-2022** - ❎ TBD
 10. **19-04-2022** - ❎ TBD
 11. **26-04-2022** - ❎ TBD

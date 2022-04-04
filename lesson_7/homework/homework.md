@@ -1,4 +1,4 @@
-# Čtení a zápis souborů
+# Čtení a zápis souborů - txt
 
 **Deadline: 10.4. 23:59**
 
