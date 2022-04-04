@@ -12,6 +12,10 @@
 
 Velice podobné jako minulý týden, otevřít json nebo csv soubor, upravit soubor a zase ho zapsat. Můžete klidně zkusit nějaké csv předělat na json (nebo naopak).
 
+Pokud chcete využít i modul `requests`, můžete se mrknout na veřejně dostupné [Star Wars API](https://swapi.dev/documentation) a nějaká data vzít odtud :) . Pro testování doporučuju uložit data do souboru a tam testovat jejich zpracování, přece jen čtení ze souboru je rychlejší než čekat na odpověď od API, navíc u něktých by se vám mohlo stát že překročíte rate limit, zde je 10 000, což je poměrně dost.
+
 # Vymyšlené zadání
 
-TBD
+TBD jeopardy
+
+[Zdroj datasetu - kaggle](https://www.kaggle.com/datasets/tunguz/200000-jeopardy-questions)
