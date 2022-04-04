@@ -5,6 +5,10 @@
 
 # CSV
 
+1. [Jak soubory číst](#jak-soubory-číst)
+2. [Jak soubory zapisovat](#jak-soubory-zapisovat)
+3. [Exercises](#exercises)
+
 Formát CSV (Comma Separated Values) je jedním z nejjednodušších a nejběžnějších způsobů ukládání tabulkových dat. Chcete-li představovat soubor CSV, musí být uložen s příponou .csv . Jako oddělovač můžeme mít libovolný znak, nejenom čárku.
 
 I když bychom mohli použít  `open()` funkci pro práci se soubory, kterou jsme si ukazovlali minulou lekco, pro CSV v Pythonu existuje speciální `csv` modul, díky kterému je práce se soubory CSV mnohem jednodušší.
