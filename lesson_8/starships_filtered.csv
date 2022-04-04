@@ -1,0 +1,7 @@
+name,model,manufacturer,cost_in_credits,length,max_atmosphering_speed,crew,passengers,cargo_capacity,consumables,vehicle_class
+TIE/LN starfighter,Twin Ion Engine/Ln Starfighter,Sienar Fleet Systems,NA,6.4,1200,1,0,65,2 days,starfighter
+TIE/IN interceptor,Twin Ion Engine Interceptor,Sienar Fleet Systems,NA,9.6,1250,1,0,75,2 days,starfighter
+Vulture Droid,Vulture-class droid starfighter,"Haor Chall Engineering, Baktoid Armor Workshop",NA,3.5,1200,0,0,0,none,starfighter
+LAAT/i,Low Altitude Assault Transport/infrantry,Rothana Heavy Engineering,NA,17.4,620,6,30,170,NA,gunship
+LAAT/c,Low Altitude Assault Transport/carrier,Rothana Heavy Engineering,NA,28.82,620,1,0,40000,NA,gunship
+Geonosian starfighter,Nantex-class territorial defense,Huppla Pasa Tisc Shipwrights Collective,NA,9.8,20000,1,0,NA,NA,starfighter
