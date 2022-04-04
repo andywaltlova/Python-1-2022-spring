@@ -10,23 +10,23 @@ import requests
 # Zjistěte, kolik je v souboru mužů a žen.
 
 url = 'http://api.kodim.cz/python-data/people'
-# response = requests.get(url)
-# dict_response = response.json()
+response = requests.get(url)
+dict_response = response.json()
 
 # print(dict_response)
-# print(dict_response[0].keys())
+print(dict_response[0].keys())
 
-# female, male = 0, 0
-# for person in dict_response:
-#     if person['gender'] == 'Female':
-#         female += 1
-#     if person['gender'] == 'Male':
-#         male += 1
-# print(f'Zeny {female}, Muzi {male}')
+female, male = 0, 0
+for person in dict_response:
+    if person['gender'] == 'Female':
+        female += 1
+    if person['gender'] == 'Male':
+        male += 1
+print(f'Zeny {female}, Muzi {male}')
 
 # pripadne list comprehension
-# print(f'Zeny: {len([p for p in dict_response if p["gender"] == "Female"])}')
-# print(f'Muzi: {len([p for p in dict_response if p["gender"] == "Male"])}')
+print(f'Zeny: {len([p for p in dict_response if p["gender"] == "Female"])}')
+print(f'Muzi: {len([p for p in dict_response if p["gender"] == "Male"])}')
 
 
 # 5 Svátky
