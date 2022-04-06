@@ -122,8 +122,6 @@ Stáhnětě si soubor [characters.csv](star_wars/characters.csv)
 - vím jak vypadá json formát
 - vím, že existují ruzné API (Application Programming Interface)
 - Umím otevřít a přečíst řádky z json souboru
-- Umím otevřít a přečíst řádky z csv souboru
-- Umím otevřít a zapsat řádky do csv souboru
 - Umím otevřít a zapsat řádky do json souboru
 
 # Meme for this week
