@@ -10,7 +10,7 @@
 6.  **22-03-2022** - ✔️  [OOP, Dědičnost](lesson_6) | [**Úkol**](lesson_6/homework/)
 7.  **29-03-2022** - 👷‍♀️ [Práce se soubory (txt)](lesson_7) | [**Úkol**](lesson_7/homework/)
 8.  **05-04-2022** - 👷‍♀️ [Práce se soubory (json, csv)](lesson_8) | [**Úkol**](lesson_8/homework/)
-9.  **12-04-2022** - ❎ Opakování
+9.  **12-04-2022** - ❎ [Opakování](lesson_9) | [**Úkol**](lesson_9/homework/)
 10. **19-04-2022** - ❎ Pandas - úvod
 11. **26-04-2022** - ❎ Pandas - agregace a spojování
 12. **03-05-2022** - ❎ Pandas - transformace, matplotlib - Vizualizae
