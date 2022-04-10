@@ -1,7 +1,12 @@
 # Outline - opakovací lekce
 
+<<<<<<< HEAD
 1. [Kahoot challenge](https://kahoot.it/challenge/07126460?challenge-id=52d955f9-531f-445d-bdc4-913dd8d9a342_1649783343101&showPodium=true)
 2. Debug mode ve Visual Studio Code - https://code.visualstudio.com/docs/editor/debugging
+=======
+1. Kahoot
+2. Debug mode ve Visual Studio Code
+>>>>>>> 8381863 (Init lesson 9 folder)
 3. Instalace modulů na příští lekci (podobně jako jsme instalovali `requests` v [minulé kapitole](https://kodim.cz/czechitas/python-data/zaklady-programovani/slovniky-json/#externi-moduly-a-balicky))
    * Na příště budeme potřebovat `pandas`
 4. Opakování - všechna cvičení jsou z kodim.cz, z doporučených a volitelných úložek, níže rozděleno podle kapitol
