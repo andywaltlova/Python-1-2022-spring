@@ -6,8 +6,12 @@
 
 # Obecné požadavky na úkol (vyžaduje více času a vlastní iniciativy)
 
-TBD
+Přečíst [čtení na doma z proběhlé lekce](https://kodim.cz/czechitas/python-data/datova-analyza/pandas-dotazy/#cteni-na-doma).
+
+Najděte si veřejně dostupný zdroj dat, cokoli dostupné ať už ke stažení přímo nebo přes API. Data načtěte a proveďte základní datovou analýzu, rozsah je na vás. Ideálně zjistěte něco o daných datech, jaké hodnoty chybí, kde je jaký datový typ apod. Úkoly zadané v sekci níže obsahují nová data se kterými jsme na lekci nepracovaly, takže je klidně můžete také použít.
 
 # Vymyšlené zadání
 
-TBD
+Přečíst [čtení na doma z proběhlé lekce](https://kodim.cz/czechitas/python-data/datova-analyza/pandas-dotazy/#cteni-na-doma).
+
+Vyberte si 2 příklady ze seznamu v [tomto souboru](https://github.com/pesikj/python-012021/blob/master/zadani/5/lekce.md).
