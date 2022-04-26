@@ -10,14 +10,15 @@
 
 # Materials
 
-* https://kodim.cz/czechitas/python-data/datova-analyza/pandas-dotazy
+* <https://kodim.cz/czechitas/python-data/datova-analyza/pandas-dotazy>
 
 # Knoweldge check
-- Umím načícst data pomocí `pandas` do `DataFrame`
-- Umím zjistit základní informace o tabulce
-- Umím data vybírat pomocí indexů, řádků a sloupců
-- Umím data filtrovat pomocí aritmetických operátorů
-- Umím data exportovat (uložit) do souboru
+
+* Umím načícst data pomocí `pandas` do `DataFrame`
+* Umím zjistit základní informace o tabulce
+* Umím data vybírat pomocí indexů, řádků a sloupců
+* Umím data filtrovat pomocí aritmetických operátorů
+* Umím data exportovat (uložit) do souboru
 
 # Meme for this week
 

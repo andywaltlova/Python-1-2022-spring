@@ -8,15 +8,16 @@
 
 # Materials
 
-* https://kodim.cz/czechitas/python-data/datova-analyza/pandas-agregace
+* <https://kodim.cz/czechitas/python-data/datova-analyza/pandas-agregace>
 
 # Knoweldge check
-- Umím data filtrovat pomocí aritmetických operátorů a funkce `isin()`
-- Umím `DataFrame` předělat na seznam seznamů a zase zpět
-- Umím najít chybějící hodnoty a případně je vymazat nebo doplnit
-- Umím spojit více tabulek za sebe (concat)
-- Umím spojit více tabulek do sebe (merge)
-- Umím data groupnout podle sloupce
+
+* Umím data filtrovat pomocí aritmetických operátorů a funkce `isin()`
+* Umím `DataFrame` předělat na seznam seznamů a zase zpět
+* Umím najít chybějící hodnoty a případně je vymazat nebo doplnit
+* Umím spojit více tabulek za sebe (concat)
+* Umím spojit více tabulek do sebe (merge)
+* Umím data groupnout podle sloupce
 
 # Meme for this week
 
