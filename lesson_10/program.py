@@ -60,9 +60,11 @@ condition = mesta_2['vymera'] < 200
 vymera_pod_200 = mesta_2['vymera'] < 200
 b = mesta_2['obyvatel'] < 500_000
 condition = vymera_pod_200 | b
-print(mesta_2[condition]['kraj'])
+# print(mesta_2[condition]['kraj'])
 
 
 # TODO next lesson
-# isin()
+mesta[mesta['mesto'].isin(['brno', 'praha'])]
 # prevod dataframu na list, reset_index
+mesta.columns.tolist()
+mesta.values.tolist()
